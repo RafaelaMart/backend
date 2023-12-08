@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/28a3875c-f42e-49a5-8196-f135a663fbd2/resourceGroups/Rafaela/providers/Microsoft.Web/sites/projeto-aulas-rafaela-mir-2023"
+}
